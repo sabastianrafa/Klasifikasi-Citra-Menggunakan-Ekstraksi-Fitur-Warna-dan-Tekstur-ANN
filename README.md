@@ -1,0 +1,1 @@
+# Klasifikasi-Citra-Menggunakan-Ekstraksi-Fitur-Warna-dan-Tekstur-ANN
